@@ -1,0 +1,1 @@
+![GitHub Views](https://img.shields.io/github/languages/count/<Ganmo>/<Ganmo3>)
